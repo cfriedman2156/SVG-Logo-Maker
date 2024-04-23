@@ -1,0 +1,21 @@
+{
+  "name": "svg-logo-maker",
+  "version": "1.0.0",
+  "description": "An app that generates SVG logos",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "color-regex": "^1.0.2",
+    "inquirer": "^8.2.4",
+    "jest": "^28.1.3"
+  }
+}
